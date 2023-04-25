@@ -1,0 +1,17 @@
+/* Inter */
+@font-face {
+    font-family: 'Inter';
+    src: url('../fonts/inter/inter-Medium.ttf') format('truetype');
+}
+
+/* Favorit */
+@font-face {
+    font-family: 'Favorit';
+    src: url('../fonts/abc-favorit/FavoritC.ttf') format('truetype');
+}
+
+:root {
+    --black-color: #000000;
+    --white-color: #FFFFFF;
+    --white-50: rgba(255, 255, 255, 0.5);
+}
